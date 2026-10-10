@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.9: Smart In-Game vs Alt-Tab HUD - live percentage & remaining to goal added in-game; dynamic auto-collapse of percentage, remaining, and rate/m on Alt-Tab for ultra-compact HUD"
+  "changelog": "Large & comfortable Loader GUI, crisp High-DPI scaling, prominent Start Radar button, and silky-smooth zero-lag window dragging"
 }
