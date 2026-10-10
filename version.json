@@ -1,5 +1,5 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Fix OCR backlog freeze, keep session timer ticking, 512KB fast download buffer, remove splash delays and add auth code hint."
+  "changelog": "Stability Fix: Prevents number fragmentation & temporal drops. Eliminates corrupted last_known traps and stabilizes balance reading."
 }
