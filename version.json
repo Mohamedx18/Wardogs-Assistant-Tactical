@@ -1,5 +1,5 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Dynamic Keybind Recorder (Keyboard & Mouse) + Server Join STOP Button + Password Modal Coordinate Fix + Windows Notifications"
+  "changelog": "Exact Green Faction Coordinates (0.578, 0.518) + Fix False Disconnect during Server Join"
 }
