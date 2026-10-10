@@ -1,5 +1,5 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Smart Server Join & Choose Team alert (Phone Push + PC Chime + In-Game HUD state)"
+  "changelog": "HUD Stop button strictly hidden during gameplay, shows only when goal is reached with 1-click Stop & Reset"
 }
