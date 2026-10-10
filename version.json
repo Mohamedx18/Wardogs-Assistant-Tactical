@@ -1,5 +1,5 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Fixed rate of gain counter ($/m) initial balance baseline calculation and OCR spike rejection"
+  "changelog": "Fixed Anti-AFK keyboard leak: verified game process and strictly isolated background input"
 }
