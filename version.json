@@ -1,5 +1,5 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Direct Server Auto-Join (GUID & Password) + Green Faction Selector + Custom Turbo Macro Spammer"
+  "changelog": "Dynamic Keybind Recorder (Keyboard & Mouse) + Server Join STOP Button + Password Modal Coordinate Fix + Windows Notifications"
 }
