@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Fix crash with dedicated thread OCR, restore seamless Alt-Tab tracking, and fluid 144Hz loader dragging"
+  "changelog": "v1.0.7: HUD drag restricted strictly to designated grip handle icon (\u2725), preventing accidental moves; smooth hover glow; anti-AFK and Alt-Tab stability"
 }
