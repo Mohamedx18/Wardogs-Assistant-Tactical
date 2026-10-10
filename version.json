@@ -1,5 +1,5 @@
 {
   "version": "1.0.23",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Feature: Optional update prompt with 'Update Now' vs 'Later' choice in loader & live in-game notification"
+  "changelog": "Complete UI overhaul of main window: removed redundant pills and badges, uncluttered header, refined analytics grid and modern crimson command buttons."
 }
