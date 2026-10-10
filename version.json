@@ -1,5 +1,5 @@
 {
   "version": "1.0.23",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Complete UI overhaul of main window: removed redundant pills and badges, uncluttered header, refined analytics grid and modern crimson command buttons."
+  "changelog": "Fix: Update banner is now notification-only \u2014 no forced in-app restart. Update applies on next natural restart via splash screen choice."
 }
