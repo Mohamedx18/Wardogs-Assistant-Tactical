@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Direct Launch: Splash screen now launches directly into assistant with zero blocking buttons, plus atomic update engine."
+  "changelog": "Tweak: Server join & team selection notification chime is now brief, short duration and non-looping"
 }
