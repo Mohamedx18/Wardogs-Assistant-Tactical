@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Hardware-accelerated native 144Hz window dragging and zero DWM timer jitter"
+  "changelog": "Fix crash with dedicated thread OCR, restore seamless Alt-Tab tracking, and fluid 144Hz loader dragging"
 }
