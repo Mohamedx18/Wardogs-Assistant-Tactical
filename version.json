@@ -1,5 +1,5 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Fixed self-updater restart Python DLL load error and cleared PyInstaller environment variables"
+  "changelog": "Fixed money OCR reading from foreign apps during Alt-Tab, fixed bank cap false goals with ratio parsing, added 5-frame streak confirmation, and enabled universal disconnect detection while Alt-Tabbed."
 }
