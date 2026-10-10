@@ -1,5 +1,5 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Fixed money OCR reading from foreign apps during Alt-Tab, fixed bank cap false goals with ratio parsing, added 5-frame streak confirmation, and enabled universal disconnect detection while Alt-Tabbed."
+  "changelog": "Overhauled Multi-Pass OCR with horizontal breathing stretch, robust zero correction (15 250 ooo -> 15,250,000), space-collapse parsing, and 100% passive anti-cheat safe capture."
 }
