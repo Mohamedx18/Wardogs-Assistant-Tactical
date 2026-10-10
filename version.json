@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.8: Dual-Pass OCR recognition (live screen + client surface capture with ScreenToClient mapping), Big Loader smart area clearance avoidance, Alt-Tab real-time money reading"
+  "changelog": "v1.0.9: Smart In-Game vs Alt-Tab HUD - live percentage & remaining to goal added in-game; dynamic auto-collapse of percentage, remaining, and rate/m on Alt-Tab for ultra-compact HUD"
 }
