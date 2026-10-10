@@ -1,5 +1,5 @@
 {
-  "version": "1.0.30",
+  "version": "1.0.31",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Instant Rate ($/min) and ETA Stabilization (Responsive 2s Updates + Zero Cold Start Delay)"
+  "changelog": "Calm Intro Sound on First Launch / Post-Update + Strict 'hu' Security Clearance Verification"
 }
