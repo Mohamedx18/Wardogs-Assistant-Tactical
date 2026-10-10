@@ -1,5 +1,5 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Redesigned ultra-sleek esports loader UI, multi-layer 256px crisp taskbar icon, and high-fidelity native Windows audio notification sounds."
+  "changelog": "Feature: Optional update prompt with 'Update Now' vs 'Later' choice in loader & live in-game notification"
 }
