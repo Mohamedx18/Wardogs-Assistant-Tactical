@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Unified Stop & Mute single action button, in-game HUD 1-click Stop & Reset for completed orders"
+  "changelog": "Smart Server Join & Choose Team alert (Phone Push + PC Chime + In-Game HUD state)"
 }
