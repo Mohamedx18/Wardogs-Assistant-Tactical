@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.7: HUD drag restricted strictly to designated grip handle icon (\u2725), preventing accidental moves; smooth hover glow; anti-AFK and Alt-Tab stability"
+  "changelog": "v1.0.8: Dual-Pass OCR recognition (live screen + client surface capture with ScreenToClient mapping), Big Loader smart area clearance avoidance, Alt-Tab real-time money reading"
 }
