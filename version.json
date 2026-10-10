@@ -1,5 +1,5 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Exact Green Faction Coordinates (0.578, 0.518) + Fix False Disconnect during Server Join"
+  "changelog": "Instant Rate ($/min) and ETA Stabilization (Responsive 2s Updates + Zero Cold Start Delay)"
 }
