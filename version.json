@@ -1,5 +1,5 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Eliminated mid-game Choose Team alerts + Seamless zero-interruption background Anti-AFK without window switching."
+  "changelog": "Direct Server Auto-Join (GUID & Password) + Green Faction Selector + Custom Turbo Macro Spammer"
 }
