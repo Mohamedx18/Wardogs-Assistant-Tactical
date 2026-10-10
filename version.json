@@ -1,5 +1,5 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Anti-AFK Alt-Tab Engine: Guaranteed background server activity with micro-focus hop and smart typing protection."
+  "changelog": "Eliminated mid-game Choose Team alerts + Seamless zero-interruption background Anti-AFK without window switching."
 }
