@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Fixed Anti-AFK keyboard leak: verified game process and strictly isolated background input"
+  "changelog": "Fixed self-updater restart Python DLL load error and cleared PyInstaller environment variables"
 }
