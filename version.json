@@ -1,5 +1,5 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Fixed Disconnect Alert & Server Join Alert spam and freezes. Added anti-spam rate limiting, proper window detection, and 2-minute cooldowns."
+  "changelog": "Fixed rate of gain counter ($/m) initial balance baseline calculation and OCR spike rejection"
 }
