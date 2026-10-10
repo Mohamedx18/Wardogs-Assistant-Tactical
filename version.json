@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Restored silky smooth HUD dragging and massive Hero Start Radar button"
+  "changelog": "Hardware-accelerated native 144Hz window dragging and zero DWM timer jitter"
 }
