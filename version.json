@@ -1,5 +1,5 @@
 {
   "version": "1.0.20",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Overhauled Multi-Pass OCR with horizontal breathing stretch, robust zero correction (15 250 ooo -> 15,250,000), space-collapse parsing, and 100% passive anti-cheat safe capture."
+  "changelog": "Added intelligent in-game dialog detection: detects 20+ disconnect/kick error messages within ~3s, recognizes match ending loading bars and server reconnect transitions without false alarms, and notifies on Choose Team screen."
 }
