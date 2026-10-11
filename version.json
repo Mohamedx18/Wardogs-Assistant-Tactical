@@ -1,5 +1,5 @@
 {
-  "version": "1.0.39",
+  "version": "1.0.40",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "State-Aware Auto-Join: Modal-Verified ID Entry & Full Queue Retry Loop"
+  "changelog": "Fixed Queue Waiting & Multi-Stage Re-Join Safeguards"
 }
