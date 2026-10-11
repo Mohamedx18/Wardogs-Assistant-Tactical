@@ -1,5 +1,5 @@
 {
-  "version": "1.0.56",
+  "version": "1.0.57",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Zero-Heuristic Antivirus Clean Release: Replaced custom crypto with standard library native HMAC and pruned PyInstaller bundle metadata"
+  "changelog": "Wardogs Exclusive: Fully dedicated exclusively to Wardogs with all unrelated game references purged"
 }
