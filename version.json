@@ -1,5 +1,5 @@
 {
-  "version": "1.0.41",
+  "version": "1.0.42",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Silent VBScript Updater & Clean Shell Launch"
+  "changelog": "Fixed DEPLOY button alignment in Main Menu and refined JOIN BY ID coordinates"
 }
