@@ -1,5 +1,5 @@
 {
-  "version": "1.0.36",
+  "version": "1.0.37",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Calibrated Menu Nav Delays + Reliable Faction Lock-in + Detached Auto-Updater"
+  "changelog": "Fixed Queue Full Auto-Join Cycle, Fixed False Total Reached Alerts, Fixed Disconnect and Faction Notifications"
 }
