@@ -1,5 +1,5 @@
 {
-  "version": "1.0.37",
+  "version": "1.0.38",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Fixed Queue Full Auto-Join Cycle, Fixed False Total Reached Alerts, Fixed Disconnect and Faction Notifications"
+  "changelog": "Hotfix: Added missing Dict import in auto_join_controller to fix startup crash"
 }
