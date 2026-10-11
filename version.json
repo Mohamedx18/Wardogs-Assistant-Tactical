@@ -1,5 +1,5 @@
 {
-  "version": "1.0.38",
+  "version": "1.0.39",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Hotfix: Added missing Dict import in auto_join_controller to fix startup crash"
+  "changelog": "State-Aware Auto-Join: Modal-Verified ID Entry & Full Queue Retry Loop"
 }
