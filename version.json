@@ -1,5 +1,5 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Calm Intro Sound on First Launch / Post-Update + Strict 'hu' Security Clearance Verification"
+  "changelog": "Auto-Retry Server Queue Full + In-Queue Handler + Splash Loader Self-Updater"
 }
