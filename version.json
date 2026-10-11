@@ -1,5 +1,5 @@
 {
-  "version": "1.0.52",
+  "version": "1.0.53",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Pixel-Perfect HUD: Zero Black Margins & Native Dual-Window Rounded Clipping"
+  "changelog": "Tactical HUD: Restored \u23f1 Timer, ETA Badge & \ud83c\udfaf Target Icon with Pixel-Perfect Placement"
 }
