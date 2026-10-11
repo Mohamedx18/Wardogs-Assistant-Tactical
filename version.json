@@ -1,5 +1,5 @@
 {
-  "version": "1.0.42",
+  "version": "1.0.43",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Fixed DEPLOY button alignment in Main Menu and refined JOIN BY ID coordinates"
+  "changelog": "Eliminated false disconnect alert when deploying to match and added 45s join grace period"
 }
