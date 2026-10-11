@@ -1,5 +1,5 @@
 {
-  "version": "1.0.33",
+  "version": "1.0.34",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Lightning Fast Auto-Join & Instant Menu Transitions"
+  "changelog": "Server Restart, Match End, and Main Menu Disconnect Alert Fix"
 }
