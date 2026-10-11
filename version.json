@@ -1,5 +1,5 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Server Restart, Match End, and Main Menu Disconnect Alert Fix"
+  "changelog": "In-App 1-Click Update & Restart Button + Guaranteed Splash Auto-Updater with Detached Process"
 }
