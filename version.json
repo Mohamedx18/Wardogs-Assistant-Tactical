@@ -1,5 +1,5 @@
 {
-  "version": "1.0.54",
+  "version": "1.0.55",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "All-Icon HUD Suite: Restored \ud83c\udfaf Left, \ud83d\udcca Pct, \u23f1 Time, \u23f3 ETA, \ud83d\udcc8 Rate, \ud83d\udee1 AFK & \u26a1 Macro"
+  "changelog": "Perfect HUD Centering & Win32 True Coordinate Sync"
 }
