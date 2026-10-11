@@ -1,5 +1,5 @@
 {
-  "version": "1.0.55",
+  "version": "1.0.56",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "Security & Antivirus Whitelist Optimization: Replaced PowerShell dropper with clean Win32 batch updater and hashed tool signatures"
+  "changelog": "Zero-Heuristic Antivirus Clean Release: Replaced custom crypto with standard library native HMAC and pruned PyInstaller bundle metadata"
 }
