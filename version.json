@@ -1,5 +1,5 @@
 {
-  "version": "1.0.61",
+  "version": "1.0.62",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.61: Fixed Text/Image Dragging (Removed all widget drag bindings, 100% stable UI)"
+  "changelog": "Silent & Instant Launch: Completely removed intro music and optimized startup time"
 }
