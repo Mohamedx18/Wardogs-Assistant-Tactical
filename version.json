@@ -1,5 +1,5 @@
 {
-  "version": "1.0.60",
+  "version": "1.0.61",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.60: Whisper-Soft Ambient Audio, Sub-Metric Remaining Target on Right Side of Balance"
+  "changelog": "v1.0.61: Fixed Text/Image Dragging (Removed all widget drag bindings, 100% stable UI)"
 }
