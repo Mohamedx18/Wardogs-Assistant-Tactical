@@ -1,5 +1,5 @@
 {
-  "version": "1.0.68",
+  "version": "1.0.69",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.68: Hide Left / Profit Badge When Radar Is Not Running (Only Visible on Live Monitoring)"
+  "changelog": "v1.0.69: Added Creator Signature (Made by Rocket | Discord: ro2.) in Splash and Main UI"
 }
