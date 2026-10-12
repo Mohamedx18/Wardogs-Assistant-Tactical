@@ -1,5 +1,5 @@
 {
-  "version": "1.0.64",
+  "version": "1.0.65",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.64: Added AFK Action Key Keybind Button (Customizable Crouching Key), Interval Slider & Live Test"
+  "changelog": "v1.0.65: Fixed HUD Glitch on Alt-Tab - Overlay Now 100% Stable and Full"
 }
