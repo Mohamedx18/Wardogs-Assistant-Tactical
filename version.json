@@ -1,5 +1,5 @@
 {
-  "version": "1.0.62",
+  "version": "1.0.63",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.62: New Branding & Blurred UI Background, Fixed Alt-Tab Game Switching, Robust Auto-Updater"
+  "changelog": "v1.0.63: Unlimited Mode Total Profit in HUD, Configurable AFK Interval Slider & Test, Fast Tab Switching"
 }
