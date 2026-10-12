@@ -1,5 +1,5 @@
 {
-  "version": "1.0.69",
+  "version": "1.0.70",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.69: Added Creator Signature (Made by Rocket | Discord: ro2.) in Splash and Main UI"
+  "changelog": "v1.0.70: Fixed Theme Font Attribute Crash - Smooth Startup Guaranteed"
 }
