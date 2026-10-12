@@ -1,5 +1,5 @@
 {
-  "version": "1.0.65",
+  "version": "1.0.66",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.65: Fixed HUD Glitch on Alt-Tab - Overlay Now 100% Stable and Full"
+  "changelog": "v1.0.66: Fixed AFK Interval Timer Accuracy - Smooth Dynamic Slider Updates & Thread Safety"
 }
