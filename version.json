@@ -1,5 +1,5 @@
 {
-  "version": "1.0.63",
+  "version": "1.0.64",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.63: Unlimited Mode Total Profit in HUD, Configurable AFK Interval Slider & Test, Fast Tab Switching"
+  "changelog": "v1.0.64: Added AFK Action Key Keybind Button (Customizable Crouching Key), Interval Slider & Live Test"
 }
