@@ -1,5 +1,5 @@
 {
-  "version": "1.0.66",
+  "version": "1.0.67",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.66: Fixed AFK Interval Timer Accuracy - Smooth Dynamic Slider Updates & Thread Safety"
+  "changelog": "v1.0.67: Clean Alt-Tab Compact HUD Mode - Minimal on Desktop, Full Stats In-Game"
 }
