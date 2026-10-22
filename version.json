@@ -1,5 +1,5 @@
 {
-  "version": "1.0.71",
+  "version": "1.0.72",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.71: Tactical Anti-Ban Overhaul & Smooth UI Navigation\n- Smart Anti-AFK: Randomized key actions between C, E, and Q with natural +/- 15% timing jitter safely under 3-minute kick timer\n- Anti-Ban Protection: Deactivated high-risk turbo key spammer to prevent bot/macro bans\n- Butter-Smooth Navigation: Fixed tab-switching layout flicker and lag with instant stacking\n- Zero zombie threads and instant stop event synchronization"
+  "changelog": "v1.0.72: Fixed Menu Overlap Isolation & Alternating C/E/Q Anti-AFK\n- Fixed Menu Overlap: Re-isolated tabs with grid_remove to completely eliminate visual bugs and restore all panels\n- Strict Key Alternation: Anti-AFK now strictly alternates between C, E, and Q with 0% chance of repeating the same key\n- Live Overlay & UI Sync: HUD and Pill clearly show the upcoming and executing key in real-time"
 }
