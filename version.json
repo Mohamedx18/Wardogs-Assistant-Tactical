@@ -1,5 +1,5 @@
 {
-  "version": "1.0.84",
+  "version": "1.0.85",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.84: Fixed startup font unpacking crash & added bulletproof auto-restart/relaunch handling"
+  "changelog": "v1.0.85: Completely eliminated _MEIPASS2 temp leak on restart via Windows Desktop Shell, removed self.withdraw() ensuring instant foreground display & hardened false-positive security watchdog"
 }
