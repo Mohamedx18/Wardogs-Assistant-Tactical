@@ -1,5 +1,5 @@
 {
-  "version": "1.0.78",
+  "version": "1.0.79",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.78: Syringe 3-Phase Macro (3.5s Hold, Dual-Pulse Release, 1.0s Stance Reset) & Continuous Loop"
+  "changelog": "v1.0.79: Fast 3.0s Syringe Macro & Infinite Past-20 Counter Fix"
 }
