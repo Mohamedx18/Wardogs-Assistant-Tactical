@@ -1,5 +1,5 @@
 {
-  "version": "1.0.76",
+  "version": "1.0.77",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.76: Full Page Scrollability (PageHost CTkScrollableFrame), Expanded Viewport & Zero Box Clipping"
+  "changelog": "v1.0.77: Medic 3.5s Syringe Macro Stance Fix, Continuous Re-loop & Multi-Reward XP/Cash Feed Detection"
 }
