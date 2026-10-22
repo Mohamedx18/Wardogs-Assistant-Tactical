@@ -1,5 +1,5 @@
 {
-  "version": "1.0.80",
+  "version": "1.0.81",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.80: Medic Syringe Stance Reset (1.5s Pause), Fast 3.0s Hold, Continuous Injection Loop & Unlimited Past-20 Counter Fix"
+  "changelog": "v1.0.81: Fixed Native Synchronous OCR Feed Engine, Auto-Sync Medic Session & Unlocked Syringe Counter"
 }
