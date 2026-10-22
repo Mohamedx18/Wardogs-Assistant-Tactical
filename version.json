@@ -1,5 +1,5 @@
 {
-  "version": "1.0.83",
+  "version": "1.0.84",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.83: Rollback Medic, Restored Floating HUD AFK Badge, Zero-Stutter Instant Launch & Clean Card Layouts"
+  "changelog": "v1.0.84: Fixed startup font unpacking crash & added bulletproof auto-restart/relaunch handling"
 }
