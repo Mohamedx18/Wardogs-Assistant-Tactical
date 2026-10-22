@@ -1,5 +1,5 @@
 {
-  "version": "1.0.81",
+  "version": "1.0.82",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.81: Fixed Native Synchronous OCR Feed Engine, Auto-Sync Medic Session & Unlocked Syringe Counter"
+  "changelog": "v1.0.82: Ultra-Fast Medic Syringe Macro (1.5s Hold + 0.5s Reset) & Full Multi-Speed Preset Selectors"
 }
