@@ -1,5 +1,5 @@
 {
-  "version": "1.0.70",
+  "version": "1.0.71",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.70: Fixed Theme Font Attribute Crash - Smooth Startup Guaranteed"
+  "changelog": "v1.0.71: Tactical Anti-Ban Overhaul & Smooth UI Navigation\n- Smart Anti-AFK: Randomized key actions between C, E, and Q with natural +/- 15% timing jitter safely under 3-minute kick timer\n- Anti-Ban Protection: Deactivated high-risk turbo key spammer to prevent bot/macro bans\n- Butter-Smooth Navigation: Fixed tab-switching layout flicker and lag with instant stacking\n- Zero zombie threads and instant stop event synchronization"
 }
