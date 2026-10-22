@@ -1,5 +1,5 @@
 {
-  "version": "1.0.73",
+  "version": "1.0.74",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.73: Clean Core Suite - Removed Auto-Join, Removed Profit Gain, Strict C/E/Q Alternation, Isolated Menu Navigation"
+  "changelog": "v1.0.74: Dynamic Random Interval (35s-110s) & Crouch Auto-Uncrouch Double Tap ('C')"
 }
