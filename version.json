@@ -1,5 +1,5 @@
 {
-  "version": "1.0.72",
+  "version": "1.0.73",
   "download_url": "https://github.com/Mohamedx18/Wardogs-Assistant-Tactical/releases/latest/download/Wardogs_Assistant.exe",
-  "changelog": "v1.0.72: Fixed Menu Overlap Isolation & Alternating C/E/Q Anti-AFK\n- Fixed Menu Overlap: Re-isolated tabs with grid_remove to completely eliminate visual bugs and restore all panels\n- Strict Key Alternation: Anti-AFK now strictly alternates between C, E, and Q with 0% chance of repeating the same key\n- Live Overlay & UI Sync: HUD and Pill clearly show the upcoming and executing key in real-time"
+  "changelog": "v1.0.73: Clean Core Suite - Removed Auto-Join, Removed Profit Gain, Strict C/E/Q Alternation, Isolated Menu Navigation"
 }
